@@ -1,0 +1,31 @@
+{
+    "appName": {
+      "message": "YouTube字幕フィルター",
+      "description": "YouTube内の動画サムネイルに希望する言語の字幕タグを追加してくれます。"
+    },
+    "appDesc": {
+      "message": "YouTube内の動画サムネイルに希望する言語の字幕タグを追加してくれます。",
+      "description": "YouTube動画サムネイル上段に設定された言語の字幕タグを追加します。 (물론, 자막이 없다면 태그는 추가되지 않습니다)"
+    },
+    "selectLang": {
+      "message": "設定言語",
+      "description": "言語セレクタのレーベル名"
+    },
+    "color": {
+      "message": "色相",
+      "description": "色相セレクタのレーベル名"
+    },
+    "tagSizeRange": {
+      "message": "サイズ調節",
+      "description": "サイズ調整のレーベル名"
+    },
+    "example": {
+      "message": "例示",
+      "description": "例示のレーベル名"
+    },
+    "combineRegion": {
+      "message": "地域言語統合",
+      "description": "地域言語のレーベル名"
+    }
+  }
+  
